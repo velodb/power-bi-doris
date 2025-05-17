@@ -13,7 +13,7 @@ Doris has created a custom Power BI DirectQuery Connector.
     *   [Download](https://downloads.mysql.com/archives/c-odbc/)
 
 *   Powerbi Doris Connector
-    *   [Download]()
+    *   [Download](https://github.com/velodb/power-bi-doris/blob/master/Doris.mez)
 
 ## Connector extensibility in Power BI
 
