@@ -9,11 +9,11 @@ Doris has created a custom Power BI DirectQuery Connector.
 *   Microsoft Power BI Desktop
     *   [Download](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
-*   MySQL ODBC Driver 5.2
+*   MySQL ODBC Driver 5.3
     *   [Download](https://downloads.mysql.com/archives/c-odbc/)
 
 *   Powerbi Doris Connector
-    *   [Download](https://github.com/velodb/power-bi-doris/blob/master/Doris.mez)
+    *   [Download]()
 
 ## Connector extensibility in Power BI
 
